@@ -17,4 +17,8 @@
 # facebook.com
 #https://www.fxstreet.com/analysis
 #http://www.google.com/finance
-# 
+#
+# Ferbruary 2, 2020 - March 23, 2020
+import pandas as pd
+from selenium import webdriver
+import quandl
